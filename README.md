@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Siddharth 👋  
+A passionate developer exploring Python, Flask, frontend, and problem-solving.
 
-<!--
-**siddharthX6174/siddharthX6174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Portfolio  
+<div align="center">
+  <a href="https://siddharthsportofolio-r343.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Coding Profiles  
+- **GitHub:** siddharthX6174  
+- **LeetCode:** siddharth_x9365  
+
+---
+
+## ⚡ Skills  
+- Python, Flask  
+- HTML, CSS, JavaScript  
+- Git & GitHub  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharthX6174&show_icons=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174)
+
