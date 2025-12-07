@@ -1,5 +1,4 @@
-# Hi, I'm Siddharth 👋  
-A passionate developer exploring Python, Flask, frontend, and problem-solving.
+# Hi, I'm Siddharth 👋
 
 ---
 
@@ -13,19 +12,19 @@ A passionate developer exploring Python, Flask, frontend, and problem-solving.
 ---
 
 ## 🧠 Coding Profiles  
-- **GitHub:** siddharthX6174  
-- **LeetCode:** siddharth_x9365  
-
----
-
-## ⚡ Skills  
-- Python, Flask  
-- HTML, CSS, JavaScript  
-- Git & GitHub  
+<div align="center">
+  <a href="https://leetcode.com/u/siddharth_x9365/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Click%20Here-orange?style=for-the-badge" />
+  </a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=siddharthX6174&show_icons=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=siddharthX6174&show_icons=true&theme=transparent" /><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174&layout=compact&theme=transparent" />
+
+</div>
