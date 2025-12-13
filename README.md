@@ -10,4 +10,6 @@
 </div>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174&layout=compact&theme=tokyonight)
+
 
