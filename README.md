@@ -12,3 +12,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174&layout=compact&theme=tokyonight)
 
 
+![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddharthX6174&show_icons=true&theme=tokyonight)
+
+
