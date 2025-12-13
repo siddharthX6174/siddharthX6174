@@ -8,3 +8,6 @@
     <img src="https://img.shields.io/badge/LeetCode-Click%20Here-orange?style=for-the-badge" />
   </a>
 </div>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174&layout=compact)
+
