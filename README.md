@@ -12,7 +12,7 @@
   </a>
 </div>
 <br/>
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">👾 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthX6174&theme=github_dark" />
   <br/>
