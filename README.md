@@ -1,6 +1,3 @@
-
-<h1 align="center">📊 GitHub Stats</h1>
-
 <!-- Portfolio Button -->
 <div align="center">
   <a href="https://siddharthsportofolio-r343.vercel.app/" target="_blank">
@@ -19,20 +16,21 @@
 
 <br/>
 
-<!-- GitHub Stats -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
 <div align="center">
 
-  <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharthX6174&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthX6174&theme=github_dark" />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthX6174&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180em"/>
+  <br/><br/>
 
-</div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharthX6174&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddharthX6174&theme=github_dark&utcOffset=5.5" />
 
-<br/>
+  <br/><br/>
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=siddharthX6174&theme=tokyonight&hide_border=true&border_radius=10" height="180em"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharthX6174&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthX6174&theme=github_dark" />
+
 </div>
