@@ -4,7 +4,6 @@
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-Click%20Here-blue?style=for-the-badge" />
   </a>
 </div>
-
 <br/>
 <!-- LeetCode Button -->
 <div align="center">
@@ -13,13 +12,9 @@
   </a>
 </div>
 <br/>
-
 <h2 align="center">📊 GitHub Stats</h2>
-
 <div align="center">
-
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthX6174&theme=github_dark" />
-
   <br/><br/>
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharthX6174&theme=github_dark" />
