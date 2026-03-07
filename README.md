@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <!-- <h2>Projects</h2> <br> -->
+    <h2>Projects</h2>
     <ul>
       <li>https://bharatpay-flaskbank-2.onrender.com/</li>
     </ul>
