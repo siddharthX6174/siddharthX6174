@@ -16,6 +16,7 @@
     <h2>Projects</h2>
     <ul>
       <li>https://bharatpay-flaskbank-2.onrender.com/</li>
+      <li>https://planora-v2xi.onrender.com/</li>
     </ul>
 </div>
 
