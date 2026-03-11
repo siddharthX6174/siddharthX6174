@@ -20,13 +20,3 @@
     </ul>
 </div>
 
-<h2 align="center">⚙️ GitHub Stats</h2>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharthX6174&theme=github_dark" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siddharthX6174&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddharthX6174&theme=github_dark&utcOffset=5.5" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharthX6174&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharthX6174&theme=github_dark" />
-</div>
