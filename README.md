@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=siddharthX6174&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
 <!-- Portfolio Button -->
 <div align="center">
   <a href="https://siddharthsportofolio-r343.vercel.app/" target="_blank">
